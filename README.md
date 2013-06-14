@@ -13,3 +13,5 @@ Initialize with:
 	var mailListener = new MailListener({
 		// options...
 	});
+
+More documentation is available at the [module's repo](https://github.com/circuithub/mail-listener).
