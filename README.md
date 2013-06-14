@@ -7,8 +7,9 @@
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
 2. `mrt add mail-listener`
-3. Initialize with:
 
-    var mailListener = new MailListener({
-        // options...
-    });
+Initialize with:
+
+	var mailListener = new MailListener({
+		// options...
+	});
