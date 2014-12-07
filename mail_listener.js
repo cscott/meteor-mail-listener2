@@ -1,1 +1,0 @@
-MailListener = Npm.require('mail-listener');
